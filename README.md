@@ -10,7 +10,7 @@ The following documents are included here and/or in the folder
 3. Codex - CXS_241e  STANDARD FOR CANNED BAMBOO SHOOTS
 
 
-4. Jamaican Standard - JS-106-Part-2-2014-Bamboo-and-Indigenous-Furniture  Jamaican Stabdard Specification for Furniture Part 2 Bamboo and Indigenous Furniture
+4. Jamaican Standard - JS-106-Part-2-2014-Bamboo-and-Indigenous-Furniture  Jamaican Standard Specification for Furniture Part 2 Bamboo and Indigenous Furniture
 
 
 5. JS-334_2015-Canned_Packaged-Bamboo-Shoots-June-2025  Jamaican Standard Specification for Canned/Packaged bamboo shoots 
