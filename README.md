@@ -3,11 +3,11 @@ This Repo and Folder contains the documents scheduled for meeting scheduled for 
 
 The following documents are included here and/or in the folder
 
-1. Codex - CXS_192e
+1. Codex - CXS_192e  GENERAL STANDARD FOR FOOD ADDITIVES
 
-2. Codex - CXS_193e
+2. Codex - CXS_193e  GENERAL STANDARD FOR CONTAMINANTS AND TOXINS IN FOOD AND FEED
 
-3. Codex - CXS_241e
+3. Codex - CXS_241e  STANDARD FOR CANNED BAMBOO SHOOTS
 
 
 4. Jamaican Standard - JS-106-Part-2-2014-Bamboo-and-Indigenous-Furniture  Jamaican Stabdard Specification for Furniture Part 2 Bamboo and Indigenous Furniture
