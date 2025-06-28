@@ -1,12 +1,19 @@
 
-This Repo and Folder contains the documents for meeting on ....get date
+This Repo and Folder contains the documents scheduled for meeting scheduled for Thursday 03 July 2025 at 3:00 pm
 
-The following documents are included here and or in the folder
+The following documents are included here and/or in the folder
 
-1. Codex
+1. Codex - CXS_192e
 
-2. Codex
+2. Codex - CXS_193e
 
-3. Codex
+3. Codex - CXS_241e
 
-4. Jamaican Standard
+
+4. Jamaican Standard - JS-106-Part-2-2014-Bamboo-and-Indigenous-Furniture  Jamaican Stabdard Specification for Furniture Part 2 Bamboo and Indigenous Furniture
+
+
+5. JS-334_2015-Canned_Packaged-Bamboo-Shoots-June-2025  Jamaican Standard Specification for Canned/Packaged bamboo shoots 
+
+
+6. List-of-Bamboo-Standards_updated-February2025
